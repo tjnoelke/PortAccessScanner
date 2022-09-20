@@ -12,5 +12,7 @@ Once the choice is made, the program will run the port(s) against a dictionary l
 The service is then searched against the ExpliotDB Database (sorry if that reads redundant) and display potential vulnerabilities and attack vectors for the user to use in their respective pentest. 
 I added some colored output to make it easier to read and well... pretty. 
 
+How to use:
+Download both the PAV and dictionary, throw them in the same directory/folder, then run the python program in the terminal (ex. python PAV.py). 
 
 DISCLAIMER: THIS IS A PROGRAM DESIGNED AND INTENDED FOR ETHICAL PENTESTING PURPOSES. ANY LAWS BROKEN, FOREIGN OR DOMESTIC, WITH SAID TOOL ARE AT THE DISCRESION AND SOLE CHOICE OF THE USER. DON'T BE STUPID, DO SOME GOOD, AND HAPPY HUNTING. 
